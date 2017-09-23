@@ -1,0 +1,7 @@
+{
+  "name": "websocket_app",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
